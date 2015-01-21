@@ -6,3 +6,7 @@ git submodule add git://github.com/BPA-CSIRO-Workshops/workshop-style.git style
 
 For an example of a handout demonstrating it's use, please see
 https://github.com/BPA-CSIRO-Workshops/handout-template
+
+# Firewall Blocking The Git Protocol Port?
+
+Take a look at: http://stackoverflow.com/a/10729634/1413849
