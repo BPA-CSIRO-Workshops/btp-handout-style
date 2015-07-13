@@ -3,6 +3,16 @@ probably head over to the [btp-workshop-template](https://github.com/BPA-CSIRO-W
 repository and follow one of the
 [workflows](https://github.com/BPA-CSIRO-Workshops/btp-workshop-template#general-workflows) documented there.
 
+Table of Contents
+=================
+<!-- toc -->
+* [Overview](#overview)
+* [Usage](#usage)
+* [Macros](#macros)
+* [Paragraph Text Environments](#paragraph-text-environments)
+
+<!-- toc stop -->
+
 Overview
 ========
 
@@ -26,6 +36,19 @@ or for generating the trainer version of the handout:
 ```latex
 \usepackage[trainermanual]{btp}
 ```
+
+Macros
+======
+
+LaTeX macros are ... and they provide ...
+
+Here is a list of macro's defined and available from this package.
+
+  * ```\setWorkshopTitle{}```
+  * ```\setWorkshopVenue{}```
+  * ```\setWorkshopDate{}```
+  * ```\setWorkshopAuthor{}```
+
 
 Paragraph Text Environments
 ===========================
