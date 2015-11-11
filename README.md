@@ -3,15 +3,18 @@ probably head over to the [btp-workshop-template](https://github.com/BPA-CSIRO-W
 repository and follow one of the
 [workflows](https://github.com/BPA-CSIRO-Workshops/btp-workshop-template#general-workflows) documented there.
 
-Table of Contents
-=================
-<!-- toc -->
-* [Overview](#overview)
-* [Usage](#usage)
-* [Commands](#commands)
-* [Paragraph Text Environments](#paragraph-text-environments)
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+# Table of Contents
 
-<!-- toc stop -->
+- [Overview](#overview)
+- [Usage](#usage)
+- [Commands](#commands)
+- [Paragraph Text Environments](#paragraph-text-environments)
+- [Customising the Styling](#customising-the-styling)
+- [License](#license)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 Overview
 ========
